@@ -3,6 +3,7 @@
 Welcome to the **Affordable & Clean Energy Project**! This repository analyzes global progress towards Sustainable Development Goal 7: _Ensure access to affordable, reliable, sustainable, and modern energy for all_.  
 We use data science to explore trends, challenges, and opportunities in clean and renewable energy.
 
+[View Affordable Clean Energy Tableau Visualization](https://public.tableau.com/views/Affordable_Clean_Energy_viz/Page5?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ---
 
 ## 📁 Project Structure
